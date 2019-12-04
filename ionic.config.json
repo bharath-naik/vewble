@@ -1,5 +1,7 @@
 {
   "name": "vewble",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
